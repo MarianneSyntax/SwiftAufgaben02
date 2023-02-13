@@ -9,7 +9,6 @@ import Foundation
 Tip: Der Funktionsaufruf ist bereits in main auskommentiert beschrieben. Was bedeuten die "!" (ähnlich wie in Kotlin)? Warum sollte man die "!" eigentlich vermeiden?
  */
 
-func addIntsFromReadLine(x: Int, y: Int){
-    print("Ergebnis von \(x) + \(y):")
-    print(x+y)
+func addIntsFromReadLine(/*TODO: Parameter*/){
+    //hier dein code
 }

@@ -17,16 +17,8 @@ func steckbrief() {
     
     // diese Syntax bedeutet: speichere in deinName den Inhalt aus readLine(). Wenn in readLine() nichts eingegeben wird, schreib stattdessen "Max Mustermann" in deinName.
     let deinName: String = readLine() ?? "Max Mustermann"
-    //TODO: mehr Eigenschaften für den Steckbrief
+    //TODO: mehr Eigenschaften für den Steckbrief, am Ende alles ausdrucken
     
-    print("Bitte dein Alter eingeben:")
-    let deinAlter: String = readLine() ?? "0"
-    print("Bitte gib dein Lieblingsessen ein:")
-    let deinLieblingsEssen: String = readLine() ?? "Pfannkuchen"
-    
-    
-    let result = "Dein Steckbrief: \n Dein Name ist \(deinName). \n Du bist \(deinAlter) Jahre alt. \n Dein Lieblingsessen ist \(deinLieblingsEssen). Lecker!"
-    print(result)
     
 }
 

@@ -13,8 +13,5 @@ import Foundation
 
 
 func multiplyDoubles() {
-    let double = 13.0
-    let int = 10
-    print("Ergebnis von \(double) * \(int):")
-    print(double * Double(int))
+    
 }

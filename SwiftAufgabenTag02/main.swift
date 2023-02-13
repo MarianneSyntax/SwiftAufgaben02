@@ -32,7 +32,7 @@ print("")
 
 print("Aufgabe01:")
 //TODO: Funktionsaufruf von addInts() aus Aufgabe01:
-addInts(x: 10, y: 90)
+//hier die funktion aufrufen
 print("")
 
 print("Aufgabe02:")
@@ -45,20 +45,21 @@ print("")
 
 //TODO: Funktionsaufruf aus Aufgabe03-Double:
 print("Aufgabe03:")
-multiplyDoubles()
+//hier die funktion aufrufen
 print("")
 
 print(steckbrief())
 
 //TODO: Funktionsaufruf aus Aufgabe04-Char:
 print("Aufgabe04:")
-myNameAsChars()
+//hier die funktion aufrufen
 print("")
 
 print("Aufgabe05:")
-stringOperations()
+//hier die funktion aufrufen
 print("")
 
 print("Aufgabe06:")
+//hier die funktion aufrufen
 
 

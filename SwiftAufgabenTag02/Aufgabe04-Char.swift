@@ -14,12 +14,5 @@ import Foundation
 // tip: gibt es die möglichkeit, alle characters irgendwie in einen String zu packen und diesen String auszuprinten?
 
 func myNameAsChars(){
-    var m: Character = "M"
-    var a: Character = "A"
-    var r: Character = "R"
-    var i: Character = "I"
-    var n: Character = "N"
-    var e: Character = "E"
-    
-    print("\(m)\(a)\(r)\(i)\(a)\(n)\(n)\(e)")
+  // dein code hier
 }
