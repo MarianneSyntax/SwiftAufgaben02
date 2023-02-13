@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		3557F6F9299A4F800079F1A5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F6F8299A4F800079F1A5 /* main.swift */; };
+		3557F700299A54BC0079F1A5 /* Aufgabe02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F6FF299A54BC0079F1A5 /* Aufgabe02.swift */; };
+		3557F702299A65D80079F1A5 /* Aufgabe00.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F701299A65D80079F1A5 /* Aufgabe00.swift */; };
+		3557F704299A6DD30079F1A5 /* Aufgabe01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F703299A6DD20079F1A5 /* Aufgabe01.swift */; };
+		3557F706299A70440079F1A5 /* Aufgabe03-Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F705299A70440079F1A5 /* Aufgabe03-Double.swift */; };
+		3557F708299A72AB0079F1A5 /* Aufgabe03-Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F707299A72AB0079F1A5 /* Aufgabe03-Strings.swift */; };
+		3557F70A299A7A6F0079F1A5 /* Aufgabe04-Char.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F709299A7A6F0079F1A5 /* Aufgabe04-Char.swift */; };
+		3557F70C299A7BCE0079F1A5 /* Aufgabe05Char-String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F70B299A7BCE0079F1A5 /* Aufgabe05Char-String.swift */; };
+		3557F70E299A7EDF0079F1A5 /* Aufgabe06Bool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557F70D299A7EDF0079F1A5 /* Aufgabe06Bool.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +33,14 @@
 /* Begin PBXFileReference section */
 		3557F6F5299A4F800079F1A5 /* SwiftAufgabenTag02 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAufgabenTag02; sourceTree = BUILT_PRODUCTS_DIR; };
 		3557F6F8299A4F800079F1A5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3557F6FF299A54BC0079F1A5 /* Aufgabe02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufgabe02.swift; sourceTree = "<group>"; };
+		3557F701299A65D80079F1A5 /* Aufgabe00.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufgabe00.swift; sourceTree = "<group>"; };
+		3557F703299A6DD20079F1A5 /* Aufgabe01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufgabe01.swift; sourceTree = "<group>"; };
+		3557F705299A70440079F1A5 /* Aufgabe03-Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aufgabe03-Double.swift"; sourceTree = "<group>"; };
+		3557F707299A72AB0079F1A5 /* Aufgabe03-Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aufgabe03-Strings.swift"; sourceTree = "<group>"; };
+		3557F709299A7A6F0079F1A5 /* Aufgabe04-Char.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aufgabe04-Char.swift"; sourceTree = "<group>"; };
+		3557F70B299A7BCE0079F1A5 /* Aufgabe05Char-String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aufgabe05Char-String.swift"; sourceTree = "<group>"; };
+		3557F70D299A7EDF0079F1A5 /* Aufgabe06Bool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufgabe06Bool.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 			isa = PBXGroup;
 			children = (
 				3557F6F8299A4F800079F1A5 /* main.swift */,
+				3557F701299A65D80079F1A5 /* Aufgabe00.swift */,
+				3557F703299A6DD20079F1A5 /* Aufgabe01.swift */,
+				3557F6FF299A54BC0079F1A5 /* Aufgabe02.swift */,
+				3557F705299A70440079F1A5 /* Aufgabe03-Double.swift */,
+				3557F707299A72AB0079F1A5 /* Aufgabe03-Strings.swift */,
+				3557F709299A7A6F0079F1A5 /* Aufgabe04-Char.swift */,
+				3557F70B299A7BCE0079F1A5 /* Aufgabe05Char-String.swift */,
+				3557F70D299A7EDF0079F1A5 /* Aufgabe06Bool.swift */,
 			);
 			path = SwiftAufgabenTag02;
 			sourceTree = "<group>";
@@ -120,7 +144,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3557F70A299A7A6F0079F1A5 /* Aufgabe04-Char.swift in Sources */,
+				3557F706299A70440079F1A5 /* Aufgabe03-Double.swift in Sources */,
+				3557F70E299A7EDF0079F1A5 /* Aufgabe06Bool.swift in Sources */,
+				3557F702299A65D80079F1A5 /* Aufgabe00.swift in Sources */,
 				3557F6F9299A4F800079F1A5 /* main.swift in Sources */,
+				3557F704299A6DD30079F1A5 /* Aufgabe01.swift in Sources */,
+				3557F700299A54BC0079F1A5 /* Aufgabe02.swift in Sources */,
+				3557F708299A72AB0079F1A5 /* Aufgabe03-Strings.swift in Sources */,
+				3557F70C299A7BCE0079F1A5 /* Aufgabe05Char-String.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
